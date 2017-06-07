@@ -51,6 +51,18 @@ p{
 	background-color: #F2F2F2;
 	height: 100vh;
 }
+.btn-default{
+	color: #FFF;
+	background-color: #D2527F;
+	border-color: #B4215D;
+}
+.btn-default:hover{
+	background-color: #C53A6D;
+	color: #FFF;
+}
+.btns{
+	padding-top: 5em;
+}
 
 
 
